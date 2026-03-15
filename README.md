@@ -25,6 +25,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+
 ## PROGRAM
 ```
 SERVER.PY
@@ -100,7 +101,7 @@ while True:
     print("Response from Server:", reply)
 
 client.close()
-``
+```
 ## Output
 
 ![alt text](<Screenshot 2026-03-15 120914.png>)
